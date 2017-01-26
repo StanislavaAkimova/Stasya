@@ -5,3 +5,5 @@ I want add something else, now using atom
 this is a local edit
 create a conflict
 this is a local edit 
+add conflict
+this is remote edit 
